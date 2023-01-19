@@ -85,3 +85,5 @@ let arr = [ vasya, petya, masha ];
 let getAverageAge = arr.map(item => item.age)
 
 alert( getAverageAge(arr) ); // (25 + 30 + 29) / 3 = 28
+
+// checking git functions in vscode
